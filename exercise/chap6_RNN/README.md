@@ -9,6 +9,11 @@
 利用循环神经网络，实现唐诗生成任务。
 
 
+## 说明：
+
+请运行tangshi_for_pytorch_gpu版本！
+
+./tangshi_for_pytorch_gpu/result.txt内为训练集分别为poems.txt和tangshi.txt训练下生成的诗词的结果。
 
 
 ## 数据集: 
