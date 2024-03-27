@@ -295,6 +295,7 @@ pretty_print_poem(gen_poem("夜"))
 pretty_print_poem(gen_poem("湖"))
 # pretty_print_poem(gen_poem("湖"))
 # pretty_print_poem(gen_poem("湖"))
-pretty_print_poem(gen_poem("君"))
+pretty_print_poem(gen_poem("海"))
+pretty_print_poem(gen_poem("月"))
 
 # nohup python main.py >> ts_epoch_30.log 2>&1 &
