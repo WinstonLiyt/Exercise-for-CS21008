@@ -1,0 +1,86 @@
+nohup: ignoring input
+/home/liyuante/miniconda3/envs/torch2.x/lib/python3.10/site-packages/torch/nn/modules/module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+/home/liyuante/chap6_RNN/tangshi_for_pytorch_gpu/main.py:220: UserWarning: torch.nn.utils.clip_grad_norm is now deprecated in favor of torch.nn.utils.clip_grad_norm_.
+  torch.nn.utils.clip_grad_norm(rnn_model.parameters(), 1)  # 解决梯度爆炸
+finish loadding data
+epoch   0 batch number 0 loss is:  7.82833194732666
+finish save model
+epoch   1 batch number 0 loss is:  7.273636341094971
+finish save model
+epoch   2 batch number 0 loss is:  6.489816188812256
+finish save model
+epoch   3 batch number 0 loss is:  6.505395889282227
+finish save model
+epoch   4 batch number 0 loss is:  6.386817455291748
+finish save model
+epoch   5 batch number 0 loss is:  6.341884613037109
+finish save model
+epoch   6 batch number 0 loss is:  6.3451104164123535
+finish save model
+epoch   7 batch number 0 loss is:  6.323534965515137
+finish save model
+epoch   8 batch number 0 loss is:  6.271474361419678
+finish save model
+epoch   9 batch number 0 loss is:  6.212764739990234
+finish save model
+epoch   10 batch number 0 loss is:  6.153513431549072
+finish save model
+epoch   11 batch number 0 loss is:  6.1627421379089355
+finish save model
+epoch   12 batch number 0 loss is:  6.099458694458008
+finish save model
+epoch   13 batch number 0 loss is:  6.072398662567139
+finish save model
+epoch   14 batch number 0 loss is:  5.99445104598999
+finish save model
+epoch   15 batch number 0 loss is:  6.00433874130249
+finish save model
+epoch   16 batch number 0 loss is:  5.897818565368652
+finish save model
+epoch   17 batch number 0 loss is:  5.916535377502441
+finish save model
+epoch   18 batch number 0 loss is:  5.8149003982543945
+finish save model
+epoch   19 batch number 0 loss is:  5.77434778213501
+finish save model
+epoch   20 batch number 0 loss is:  5.84871244430542
+finish save model
+epoch   21 batch number 0 loss is:  5.694545269012451
+finish save model
+epoch   22 batch number 0 loss is:  5.6423869132995605
+finish save model
+epoch   23 batch number 0 loss is:  5.571278095245361
+finish save model
+epoch   24 batch number 0 loss is:  5.470841407775879
+finish save model
+epoch   25 batch number 0 loss is:  5.50452995300293
+finish save model
+epoch   26 batch number 0 loss is:  5.381021499633789
+finish save model
+epoch   27 batch number 0 loss is:  5.3327860832214355
+finish save model
+epoch   28 batch number 0 loss is:  5.274656295776367
+finish save model
+epoch   29 batch number 0 loss is:  5.16453742980957
+finish save model
+日月青冥光春一飞之以德穷不可能纷厌纷久非主父E。
+
+
+红雨时华下马家独春不儿思E。
+
+
+山何人有是自何其来自复是林百三杯E。
+
+
+夜何人有是不见心林清生生日玉流问津华E。
+
+
+湖何来不得古事中翠风E。
+
+
+海人人一世大临飞去谁有流下休E。
+
+
+月野E。
+
