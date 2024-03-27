@@ -1,0 +1,790 @@
+nohup: ignoring input
+/home/liyuante/miniconda3/envs/torch2.x/lib/python3.10/site-packages/torch/nn/modules/module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+/home/liyuante/chap6_RNN/tangshi_for_pytorch_gpu/main.py:220: UserWarning: torch.nn.utils.clip_grad_norm is now deprecated in favor of torch.nn.utils.clip_grad_norm_.
+  torch.nn.utils.clip_grad_norm(rnn_model.parameters(), 1)  # 解决梯度爆炸
+error
+finish loadding data
+epoch   0 batch number 0 loss is:  8.719206809997559
+finish save model
+finish save model
+finish save model
+epoch   0 batch number 50 loss is:  6.574384689331055
+finish save model
+finish save model
+epoch   0 batch number 100 loss is:  6.492972373962402
+finish save model
+finish save model
+finish save model
+epoch   0 batch number 150 loss is:  6.311033248901367
+finish save model
+finish save model
+epoch   0 batch number 200 loss is:  6.124580383300781
+finish save model
+finish save model
+finish save model
+epoch   0 batch number 250 loss is:  6.728486061096191
+finish save model
+finish save model
+epoch   0 batch number 300 loss is:  6.690898418426514
+finish save model
+finish save model
+finish save model
+epoch   1 batch number 0 loss is:  6.9568352699279785
+finish save model
+finish save model
+finish save model
+epoch   1 batch number 50 loss is:  6.001168727874756
+finish save model
+finish save model
+epoch   1 batch number 100 loss is:  6.137507915496826
+finish save model
+finish save model
+finish save model
+epoch   1 batch number 150 loss is:  6.031440258026123
+finish save model
+finish save model
+epoch   1 batch number 200 loss is:  5.88944149017334
+finish save model
+finish save model
+finish save model
+epoch   1 batch number 250 loss is:  6.422206878662109
+finish save model
+finish save model
+epoch   1 batch number 300 loss is:  6.440029621124268
+finish save model
+finish save model
+finish save model
+epoch   2 batch number 0 loss is:  6.509136199951172
+finish save model
+finish save model
+finish save model
+epoch   2 batch number 50 loss is:  5.816642761230469
+finish save model
+finish save model
+epoch   2 batch number 100 loss is:  5.998651504516602
+finish save model
+finish save model
+finish save model
+epoch   2 batch number 150 loss is:  5.888766765594482
+finish save model
+finish save model
+epoch   2 batch number 200 loss is:  5.762004375457764
+finish save model
+finish save model
+finish save model
+epoch   2 batch number 250 loss is:  6.3222198486328125
+finish save model
+finish save model
+epoch   2 batch number 300 loss is:  6.365200042724609
+finish save model
+finish save model
+finish save model
+epoch   3 batch number 0 loss is:  6.234645843505859
+finish save model
+finish save model
+finish save model
+epoch   3 batch number 50 loss is:  5.7448954582214355
+finish save model
+finish save model
+epoch   3 batch number 100 loss is:  5.925622940063477
+finish save model
+finish save model
+finish save model
+epoch   3 batch number 150 loss is:  5.818447589874268
+finish save model
+finish save model
+epoch   3 batch number 200 loss is:  5.700470447540283
+finish save model
+finish save model
+finish save model
+epoch   3 batch number 250 loss is:  6.257009983062744
+finish save model
+finish save model
+epoch   3 batch number 300 loss is:  6.329362869262695
+finish save model
+finish save model
+finish save model
+epoch   4 batch number 0 loss is:  6.056014060974121
+finish save model
+finish save model
+finish save model
+epoch   4 batch number 50 loss is:  5.705976486206055
+finish save model
+finish save model
+epoch   4 batch number 100 loss is:  5.876757621765137
+finish save model
+finish save model
+finish save model
+epoch   4 batch number 150 loss is:  5.787034034729004
+finish save model
+finish save model
+epoch   4 batch number 200 loss is:  5.6600022315979
+finish save model
+finish save model
+finish save model
+epoch   4 batch number 250 loss is:  6.219608783721924
+finish save model
+finish save model
+epoch   4 batch number 300 loss is:  6.302579879760742
+finish save model
+finish save model
+finish save model
+epoch   5 batch number 0 loss is:  5.8798956871032715
+finish save model
+finish save model
+finish save model
+epoch   5 batch number 50 loss is:  5.670528411865234
+finish save model
+finish save model
+epoch   5 batch number 100 loss is:  5.852465629577637
+finish save model
+finish save model
+finish save model
+epoch   5 batch number 150 loss is:  5.757200241088867
+finish save model
+finish save model
+epoch   5 batch number 200 loss is:  5.628602981567383
+finish save model
+finish save model
+finish save model
+epoch   5 batch number 250 loss is:  6.193511009216309
+finish save model
+finish save model
+epoch   5 batch number 300 loss is:  6.2847723960876465
+finish save model
+finish save model
+finish save model
+epoch   6 batch number 0 loss is:  5.678779602050781
+finish save model
+finish save model
+finish save model
+epoch   6 batch number 50 loss is:  5.641355514526367
+finish save model
+finish save model
+epoch   6 batch number 100 loss is:  5.829377174377441
+finish save model
+finish save model
+finish save model
+epoch   6 batch number 150 loss is:  5.740603446960449
+finish save model
+finish save model
+epoch   6 batch number 200 loss is:  5.608328819274902
+finish save model
+finish save model
+finish save model
+epoch   6 batch number 250 loss is:  6.174051761627197
+finish save model
+finish save model
+epoch   6 batch number 300 loss is:  6.266782283782959
+finish save model
+finish save model
+finish save model
+epoch   7 batch number 0 loss is:  5.389393329620361
+finish save model
+finish save model
+finish save model
+epoch   7 batch number 50 loss is:  5.611502170562744
+finish save model
+finish save model
+epoch   7 batch number 100 loss is:  5.809666633605957
+finish save model
+finish save model
+finish save model
+epoch   7 batch number 150 loss is:  5.725213050842285
+finish save model
+finish save model
+epoch   7 batch number 200 loss is:  5.592798233032227
+finish save model
+finish save model
+finish save model
+epoch   7 batch number 250 loss is:  6.1554155349731445
+finish save model
+finish save model
+epoch   7 batch number 300 loss is:  6.252444744110107
+finish save model
+finish save model
+finish save model
+epoch   8 batch number 0 loss is:  5.289333343505859
+finish save model
+finish save model
+finish save model
+epoch   8 batch number 50 loss is:  5.597512722015381
+finish save model
+finish save model
+epoch   8 batch number 100 loss is:  5.775364875793457
+finish save model
+finish save model
+finish save model
+epoch   8 batch number 150 loss is:  5.71072244644165
+finish save model
+finish save model
+epoch   8 batch number 200 loss is:  5.574438571929932
+finish save model
+finish save model
+finish save model
+epoch   8 batch number 250 loss is:  6.142796993255615
+finish save model
+finish save model
+epoch   8 batch number 300 loss is:  6.2399797439575195
+finish save model
+finish save model
+finish save model
+epoch   9 batch number 0 loss is:  5.188017845153809
+finish save model
+finish save model
+finish save model
+epoch   9 batch number 50 loss is:  5.5842742919921875
+finish save model
+finish save model
+epoch   9 batch number 100 loss is:  5.7517991065979
+finish save model
+finish save model
+finish save model
+epoch   9 batch number 150 loss is:  5.69245719909668
+finish save model
+finish save model
+epoch   9 batch number 200 loss is:  5.564126968383789
+finish save model
+finish save model
+finish save model
+epoch   9 batch number 250 loss is:  6.140412330627441
+finish save model
+finish save model
+epoch   9 batch number 300 loss is:  6.231447219848633
+finish save model
+finish save model
+finish save model
+epoch   10 batch number 0 loss is:  5.08335018157959
+finish save model
+finish save model
+finish save model
+epoch   10 batch number 50 loss is:  5.566878318786621
+finish save model
+finish save model
+epoch   10 batch number 100 loss is:  5.74462890625
+finish save model
+finish save model
+finish save model
+epoch   10 batch number 150 loss is:  5.688051700592041
+finish save model
+finish save model
+epoch   10 batch number 200 loss is:  5.557677268981934
+finish save model
+finish save model
+finish save model
+epoch   10 batch number 250 loss is:  6.121060848236084
+finish save model
+finish save model
+epoch   10 batch number 300 loss is:  6.222443103790283
+finish save model
+finish save model
+finish save model
+epoch   11 batch number 0 loss is:  4.990697383880615
+finish save model
+finish save model
+finish save model
+epoch   11 batch number 50 loss is:  5.5543975830078125
+finish save model
+finish save model
+epoch   11 batch number 100 loss is:  5.72905158996582
+finish save model
+finish save model
+finish save model
+epoch   11 batch number 150 loss is:  5.67587947845459
+finish save model
+finish save model
+epoch   11 batch number 200 loss is:  5.5530595779418945
+finish save model
+finish save model
+finish save model
+epoch   11 batch number 250 loss is:  6.111976146697998
+finish save model
+finish save model
+epoch   11 batch number 300 loss is:  6.216960906982422
+finish save model
+finish save model
+finish save model
+epoch   12 batch number 0 loss is:  4.865767002105713
+finish save model
+finish save model
+finish save model
+epoch   12 batch number 50 loss is:  5.543780326843262
+finish save model
+finish save model
+epoch   12 batch number 100 loss is:  5.712593078613281
+finish save model
+finish save model
+finish save model
+epoch   12 batch number 150 loss is:  5.666228294372559
+finish save model
+finish save model
+epoch   12 batch number 200 loss is:  5.540876388549805
+finish save model
+finish save model
+finish save model
+epoch   12 batch number 250 loss is:  6.112678050994873
+finish save model
+finish save model
+epoch   12 batch number 300 loss is:  6.210031032562256
+finish save model
+finish save model
+finish save model
+epoch   13 batch number 0 loss is:  4.787420272827148
+finish save model
+finish save model
+finish save model
+epoch   13 batch number 50 loss is:  5.529916286468506
+finish save model
+finish save model
+epoch   13 batch number 100 loss is:  5.710617542266846
+finish save model
+finish save model
+finish save model
+epoch   13 batch number 150 loss is:  5.66230583190918
+finish save model
+finish save model
+epoch   13 batch number 200 loss is:  5.534470081329346
+finish save model
+finish save model
+finish save model
+epoch   13 batch number 250 loss is:  6.101116180419922
+finish save model
+finish save model
+epoch   13 batch number 300 loss is:  6.206549167633057
+finish save model
+finish save model
+finish save model
+epoch   14 batch number 0 loss is:  4.762502193450928
+finish save model
+finish save model
+finish save model
+epoch   14 batch number 50 loss is:  5.529124736785889
+finish save model
+finish save model
+epoch   14 batch number 100 loss is:  5.690409183502197
+finish save model
+finish save model
+finish save model
+epoch   14 batch number 150 loss is:  5.654303073883057
+finish save model
+finish save model
+epoch   14 batch number 200 loss is:  5.527392864227295
+finish save model
+finish save model
+finish save model
+epoch   14 batch number 250 loss is:  6.092710018157959
+finish save model
+finish save model
+epoch   14 batch number 300 loss is:  6.204581260681152
+finish save model
+finish save model
+finish save model
+epoch   15 batch number 0 loss is:  4.713574409484863
+finish save model
+finish save model
+finish save model
+epoch   15 batch number 50 loss is:  5.525429725646973
+finish save model
+finish save model
+epoch   15 batch number 100 loss is:  5.68411922454834
+finish save model
+finish save model
+finish save model
+epoch   15 batch number 150 loss is:  5.658944606781006
+finish save model
+finish save model
+epoch   15 batch number 200 loss is:  5.522772789001465
+finish save model
+finish save model
+finish save model
+epoch   15 batch number 250 loss is:  6.086001873016357
+finish save model
+finish save model
+epoch   15 batch number 300 loss is:  6.192391872406006
+finish save model
+finish save model
+finish save model
+epoch   16 batch number 0 loss is:  4.741539478302002
+finish save model
+finish save model
+finish save model
+epoch   16 batch number 50 loss is:  5.5153350830078125
+finish save model
+finish save model
+epoch   16 batch number 100 loss is:  5.669355869293213
+finish save model
+finish save model
+finish save model
+epoch   16 batch number 150 loss is:  5.651097297668457
+finish save model
+finish save model
+epoch   16 batch number 200 loss is:  5.5203375816345215
+finish save model
+finish save model
+finish save model
+epoch   16 batch number 250 loss is:  6.106837749481201
+finish save model
+finish save model
+epoch   16 batch number 300 loss is:  6.200872898101807
+finish save model
+finish save model
+finish save model
+epoch   17 batch number 0 loss is:  4.65886116027832
+finish save model
+finish save model
+finish save model
+epoch   17 batch number 50 loss is:  5.50830602645874
+finish save model
+finish save model
+epoch   17 batch number 100 loss is:  5.666140079498291
+finish save model
+finish save model
+finish save model
+epoch   17 batch number 150 loss is:  5.646757125854492
+finish save model
+finish save model
+epoch   17 batch number 200 loss is:  5.512752056121826
+finish save model
+finish save model
+finish save model
+epoch   17 batch number 250 loss is:  6.080599784851074
+finish save model
+finish save model
+epoch   17 batch number 300 loss is:  6.191260814666748
+finish save model
+finish save model
+finish save model
+epoch   18 batch number 0 loss is:  4.611377239227295
+finish save model
+finish save model
+finish save model
+epoch   18 batch number 50 loss is:  5.507795810699463
+finish save model
+finish save model
+epoch   18 batch number 100 loss is:  5.670419692993164
+finish save model
+finish save model
+finish save model
+epoch   18 batch number 150 loss is:  5.638090133666992
+finish save model
+finish save model
+epoch   18 batch number 200 loss is:  5.507850170135498
+finish save model
+finish save model
+finish save model
+epoch   18 batch number 250 loss is:  6.077754974365234
+finish save model
+finish save model
+epoch   18 batch number 300 loss is:  6.183215618133545
+finish save model
+finish save model
+finish save model
+epoch   19 batch number 0 loss is:  4.573617935180664
+finish save model
+finish save model
+finish save model
+epoch   19 batch number 50 loss is:  5.501620769500732
+finish save model
+finish save model
+epoch   19 batch number 100 loss is:  5.651175498962402
+finish save model
+finish save model
+finish save model
+epoch   19 batch number 150 loss is:  5.63530969619751
+finish save model
+finish save model
+epoch   19 batch number 200 loss is:  5.500581741333008
+finish save model
+finish save model
+finish save model
+epoch   19 batch number 250 loss is:  6.078706741333008
+finish save model
+finish save model
+epoch   19 batch number 300 loss is:  6.18964147567749
+finish save model
+finish save model
+finish save model
+epoch   20 batch number 0 loss is:  4.551440715789795
+finish save model
+finish save model
+finish save model
+epoch   20 batch number 50 loss is:  5.495969295501709
+finish save model
+finish save model
+epoch   20 batch number 100 loss is:  5.651076316833496
+finish save model
+finish save model
+finish save model
+epoch   20 batch number 150 loss is:  5.639555931091309
+finish save model
+finish save model
+epoch   20 batch number 200 loss is:  5.511175632476807
+finish save model
+finish save model
+finish save model
+epoch   20 batch number 250 loss is:  6.078144550323486
+finish save model
+finish save model
+epoch   20 batch number 300 loss is:  6.191086292266846
+finish save model
+finish save model
+finish save model
+epoch   21 batch number 0 loss is:  4.56273889541626
+finish save model
+finish save model
+finish save model
+epoch   21 batch number 50 loss is:  5.4931440353393555
+finish save model
+finish save model
+epoch   21 batch number 100 loss is:  5.6436333656311035
+finish save model
+finish save model
+finish save model
+epoch   21 batch number 150 loss is:  5.631237030029297
+finish save model
+finish save model
+epoch   21 batch number 200 loss is:  5.500649452209473
+finish save model
+finish save model
+finish save model
+epoch   21 batch number 250 loss is:  6.081404209136963
+finish save model
+finish save model
+epoch   21 batch number 300 loss is:  6.185643196105957
+finish save model
+finish save model
+finish save model
+epoch   22 batch number 0 loss is:  4.508857727050781
+finish save model
+finish save model
+finish save model
+epoch   22 batch number 50 loss is:  5.489641189575195
+finish save model
+finish save model
+epoch   22 batch number 100 loss is:  5.641361713409424
+finish save model
+finish save model
+finish save model
+epoch   22 batch number 150 loss is:  5.635025501251221
+finish save model
+finish save model
+epoch   22 batch number 200 loss is:  5.495568752288818
+finish save model
+finish save model
+finish save model
+epoch   22 batch number 250 loss is:  6.075986385345459
+finish save model
+finish save model
+epoch   22 batch number 300 loss is:  6.179427146911621
+finish save model
+finish save model
+finish save model
+epoch   23 batch number 0 loss is:  4.512190818786621
+finish save model
+finish save model
+finish save model
+epoch   23 batch number 50 loss is:  5.495977878570557
+finish save model
+finish save model
+epoch   23 batch number 100 loss is:  5.639784812927246
+finish save model
+finish save model
+finish save model
+epoch   23 batch number 150 loss is:  5.634988307952881
+finish save model
+finish save model
+epoch   23 batch number 200 loss is:  5.4909210205078125
+finish save model
+finish save model
+finish save model
+epoch   23 batch number 250 loss is:  6.064480304718018
+finish save model
+finish save model
+epoch   23 batch number 300 loss is:  6.181290626525879
+finish save model
+finish save model
+finish save model
+epoch   24 batch number 0 loss is:  4.478712558746338
+finish save model
+finish save model
+finish save model
+epoch   24 batch number 50 loss is:  5.500981330871582
+finish save model
+finish save model
+epoch   24 batch number 100 loss is:  5.642639636993408
+finish save model
+finish save model
+finish save model
+epoch   24 batch number 150 loss is:  5.626984119415283
+finish save model
+finish save model
+epoch   24 batch number 200 loss is:  5.483137130737305
+finish save model
+finish save model
+finish save model
+epoch   24 batch number 250 loss is:  6.074507236480713
+finish save model
+finish save model
+epoch   24 batch number 300 loss is:  6.1798834800720215
+finish save model
+finish save model
+finish save model
+epoch   25 batch number 0 loss is:  4.656961441040039
+finish save model
+finish save model
+finish save model
+epoch   25 batch number 50 loss is:  5.49365758895874
+finish save model
+finish save model
+epoch   25 batch number 100 loss is:  5.643782138824463
+finish save model
+finish save model
+finish save model
+epoch   25 batch number 150 loss is:  5.636919975280762
+finish save model
+finish save model
+epoch   25 batch number 200 loss is:  5.488820552825928
+finish save model
+finish save model
+finish save model
+epoch   25 batch number 250 loss is:  6.078719139099121
+finish save model
+finish save model
+epoch   25 batch number 300 loss is:  6.184010982513428
+finish save model
+finish save model
+finish save model
+epoch   26 batch number 0 loss is:  4.489171504974365
+finish save model
+finish save model
+finish save model
+epoch   26 batch number 50 loss is:  5.490665912628174
+finish save model
+finish save model
+epoch   26 batch number 100 loss is:  5.63624382019043
+finish save model
+finish save model
+finish save model
+epoch   26 batch number 150 loss is:  5.6318511962890625
+finish save model
+finish save model
+epoch   26 batch number 200 loss is:  5.489631175994873
+finish save model
+finish save model
+finish save model
+epoch   26 batch number 250 loss is:  6.068167209625244
+finish save model
+finish save model
+epoch   26 batch number 300 loss is:  6.184156894683838
+finish save model
+finish save model
+finish save model
+epoch   27 batch number 0 loss is:  4.4883341789245605
+finish save model
+finish save model
+finish save model
+epoch   27 batch number 50 loss is:  5.489691734313965
+finish save model
+finish save model
+epoch   27 batch number 100 loss is:  5.631365776062012
+finish save model
+finish save model
+finish save model
+epoch   27 batch number 150 loss is:  5.625222206115723
+finish save model
+finish save model
+epoch   27 batch number 200 loss is:  5.487931251525879
+finish save model
+finish save model
+finish save model
+epoch   27 batch number 250 loss is:  6.07765007019043
+finish save model
+finish save model
+epoch   27 batch number 300 loss is:  6.184267997741699
+finish save model
+finish save model
+finish save model
+epoch   28 batch number 0 loss is:  4.453389644622803
+finish save model
+finish save model
+finish save model
+epoch   28 batch number 50 loss is:  5.496428489685059
+finish save model
+finish save model
+epoch   28 batch number 100 loss is:  5.625255584716797
+finish save model
+finish save model
+finish save model
+epoch   28 batch number 150 loss is:  5.62904691696167
+finish save model
+finish save model
+epoch   28 batch number 200 loss is:  5.495229244232178
+finish save model
+finish save model
+finish save model
+epoch   28 batch number 250 loss is:  6.086301803588867
+finish save model
+finish save model
+epoch   28 batch number 300 loss is:  6.191006183624268
+finish save model
+finish save model
+finish save model
+epoch   29 batch number 0 loss is:  4.455361366271973
+finish save model
+finish save model
+finish save model
+epoch   29 batch number 50 loss is:  5.493412971496582
+finish save model
+finish save model
+epoch   29 batch number 100 loss is:  5.615506649017334
+finish save model
+finish save model
+finish save model
+epoch   29 batch number 150 loss is:  5.625394344329834
+finish save model
+finish save model
+epoch   29 batch number 200 loss is:  5.491281509399414
+finish save model
+finish save model
+finish save model
+epoch   29 batch number 250 loss is:  6.077208042144775
+finish save model
+finish save model
+epoch   29 batch number 300 loss is:  6.186209678649902
+finish save model
+finish save model
+finish save model
+error
+日万重，风雨一声中。
+何事无端意，何人不见人。
+
+
+error
+红树绿头风，风雨入风流。
+何事无人思，何人在此中。
+
+
+error
+山水清风生。
+
+
+error
+夜风尘，一声入九月。
+
+
+error
+湖遥何时月明月。
+不见人皆在，无人不见人。
+不能如此日，不是有心同。
+
+
+error
+海头树气萧，春风夜夜月。
+何时不相见，不见此时同。
+
+
+error
+月明明月。
+
+
