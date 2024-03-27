@@ -87,7 +87,7 @@ def process_poems2(file_name):
                 line = line.strip()
                 if line:
                     content = (
-                        line.replace(" " " ", "").replace("，", "").replace("。", "")
+                        line.replace(" " " ", "").replace("，", "").replace("。", "")  # 诗句处理与1不同
                     )
                     if (
                         "_" in content
